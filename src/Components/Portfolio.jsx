@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/comlady.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Computer lady anime";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Python-django application automation using github actions",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Automation of tasks by making use of github actions where various tasks are triggered by events",
+    url: "https://github.com/Wainainajoyce/django.nv",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web3 application Taskmart",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web3 application that uses smartcontracts to ensure transparency between employer and employee in online work.",
+    url: "https://github.com/Noela-Murugi/task_mart",
   },
   {
-    title: "My Resume Site",
+    title: "Workwave",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A project to define and track tasks assigned to employees in an organisation.",
+    url: "https://github.com/WanjikuNjoroge-dev/workwave/tree/development",
   },
 ];
 

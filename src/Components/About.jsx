@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/complady3.jpeg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Cmputer lady anime";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Frot-end development",
+  "Linux system",
+  "Devops",
+  "DevSecOps",
+  "Backend Development",
+  "Cybersecurity",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems and making work easier by using scripts to automate repetitive tasks. With development and Devops tools i make sure that systems are developed faster and easily by automating the processes to increase speed of system delivery.";
 
 const About = () => {
   return (
